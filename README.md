@@ -4,5 +4,7 @@ An aspiring full stack software developer with a focus on TypeScript, React, Sol
 ## About Me
 - 🌏 Currently looking to join a remote team with a focus on React development.
 - 🧗 In the process of furthering my skills with NextJS, HardHat, Solidity and TypeScript.
+- 🕹 Experience in game development using Unity, C#, .Net & Google Cloud Services.
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=richardhosler&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
